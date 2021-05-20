@@ -1,0 +1,32 @@
+table{
+    border: 1px solid red;
+    height: 10em;
+}
+th{
+    border: 1px solid gray;
+
+}
+td{
+    border: 1px solid gold;
+}
+.td-mic ,.td-ama{
+    font-weight: bold;
+}
+.img-micro{
+    width: 6rem;
+    
+}
+
+.img-amazon{
+    width: 6rem;
+}
+a{
+    font-size: 0.5rem;
+    text-decoration: none;
+}
+a:hover{
+    color: gray;
+}
+a:visited{
+    color: rgb(0, 205, 68);
+}
